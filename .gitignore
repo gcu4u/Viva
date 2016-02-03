@@ -1,5 +1,4 @@
-packages/
-obj/
-Viva_Project/bin/
-Viva_Project/obj/
-.vs/
+Viva_Project/packages/
+Viva_Project/Viva_Project/obj/
+Viva_Project/Viva_Project/bin/
+Viva_Project/.vs/
